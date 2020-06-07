@@ -75,3 +75,5 @@ fabric.properties
 node_modules/
 .DS_Store
 .history
+dist/
+.cache/
