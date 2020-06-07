@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sebastiangseijo/fox-game/issues"
   },
-  "homepage": "https://github.com/sebastiangseijo/fox-game#readme"
+  "homepage": "https://github.com/sebastiangseijo/fox-game#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
 }
